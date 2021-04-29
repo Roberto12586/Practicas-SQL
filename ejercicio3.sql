@@ -1,0 +1,3 @@
+# INCREMENTAR PRECIO DE TODOS COCHES EN UN 2%
+
+UPDATE coches SET precio = precio*1.02;
