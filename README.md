@@ -1,5 +1,5 @@
 
-# Pruebas técnicas PHP
+# Pruebas técnicas SQL
 
 Ejercicios para practicar SQL.
 
